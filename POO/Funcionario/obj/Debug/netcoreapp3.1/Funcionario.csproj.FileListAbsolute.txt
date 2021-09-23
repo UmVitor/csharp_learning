@@ -1,0 +1,13 @@
+C:\Users\vitto\Documents\C#\POO\Funcionario\bin\Debug\netcoreapp3.1\Funcionario.exe
+C:\Users\vitto\Documents\C#\POO\Funcionario\bin\Debug\netcoreapp3.1\Funcionario.deps.json
+C:\Users\vitto\Documents\C#\POO\Funcionario\bin\Debug\netcoreapp3.1\Funcionario.runtimeconfig.json
+C:\Users\vitto\Documents\C#\POO\Funcionario\bin\Debug\netcoreapp3.1\Funcionario.runtimeconfig.dev.json
+C:\Users\vitto\Documents\C#\POO\Funcionario\bin\Debug\netcoreapp3.1\Funcionario.dll
+C:\Users\vitto\Documents\C#\POO\Funcionario\bin\Debug\netcoreapp3.1\Funcionario.pdb
+C:\Users\vitto\Documents\C#\POO\Funcionario\obj\Debug\netcoreapp3.1\Funcionario.csprojAssemblyReference.cache
+C:\Users\vitto\Documents\C#\POO\Funcionario\obj\Debug\netcoreapp3.1\Funcionario.AssemblyInfoInputs.cache
+C:\Users\vitto\Documents\C#\POO\Funcionario\obj\Debug\netcoreapp3.1\Funcionario.AssemblyInfo.cs
+C:\Users\vitto\Documents\C#\POO\Funcionario\obj\Debug\netcoreapp3.1\Funcionario.csproj.CoreCompileInputs.cache
+C:\Users\vitto\Documents\C#\POO\Funcionario\obj\Debug\netcoreapp3.1\Funcionario.dll
+C:\Users\vitto\Documents\C#\POO\Funcionario\obj\Debug\netcoreapp3.1\Funcionario.pdb
+C:\Users\vitto\Documents\C#\POO\Funcionario\obj\Debug\netcoreapp3.1\Funcionario.genruntimeconfig.cache

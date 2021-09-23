@@ -1,0 +1,13 @@
+C:\Users\vitto\Documents\C#\POO\Vetor_de_classes\bin\Debug\netcoreapp3.1\Vetor_de_classes.exe
+C:\Users\vitto\Documents\C#\POO\Vetor_de_classes\bin\Debug\netcoreapp3.1\Vetor_de_classes.deps.json
+C:\Users\vitto\Documents\C#\POO\Vetor_de_classes\bin\Debug\netcoreapp3.1\Vetor_de_classes.runtimeconfig.json
+C:\Users\vitto\Documents\C#\POO\Vetor_de_classes\bin\Debug\netcoreapp3.1\Vetor_de_classes.runtimeconfig.dev.json
+C:\Users\vitto\Documents\C#\POO\Vetor_de_classes\bin\Debug\netcoreapp3.1\Vetor_de_classes.dll
+C:\Users\vitto\Documents\C#\POO\Vetor_de_classes\bin\Debug\netcoreapp3.1\Vetor_de_classes.pdb
+C:\Users\vitto\Documents\C#\POO\Vetor_de_classes\obj\Debug\netcoreapp3.1\Vetor_de_classes.csprojAssemblyReference.cache
+C:\Users\vitto\Documents\C#\POO\Vetor_de_classes\obj\Debug\netcoreapp3.1\Vetor_de_classes.AssemblyInfoInputs.cache
+C:\Users\vitto\Documents\C#\POO\Vetor_de_classes\obj\Debug\netcoreapp3.1\Vetor_de_classes.AssemblyInfo.cs
+C:\Users\vitto\Documents\C#\POO\Vetor_de_classes\obj\Debug\netcoreapp3.1\Vetor_de_classes.csproj.CoreCompileInputs.cache
+C:\Users\vitto\Documents\C#\POO\Vetor_de_classes\obj\Debug\netcoreapp3.1\Vetor_de_classes.dll
+C:\Users\vitto\Documents\C#\POO\Vetor_de_classes\obj\Debug\netcoreapp3.1\Vetor_de_classes.pdb
+C:\Users\vitto\Documents\C#\POO\Vetor_de_classes\obj\Debug\netcoreapp3.1\Vetor_de_classes.genruntimeconfig.cache

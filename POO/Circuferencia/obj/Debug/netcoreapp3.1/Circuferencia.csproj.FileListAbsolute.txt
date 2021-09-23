@@ -1,0 +1,13 @@
+C:\Users\vitto\Documents\C#\POO\Circuferencia\obj\Debug\netcoreapp3.1\Circuferencia.csprojAssemblyReference.cache
+C:\Users\vitto\Documents\C#\POO\Circuferencia\obj\Debug\netcoreapp3.1\Circuferencia.AssemblyInfoInputs.cache
+C:\Users\vitto\Documents\C#\POO\Circuferencia\obj\Debug\netcoreapp3.1\Circuferencia.AssemblyInfo.cs
+C:\Users\vitto\Documents\C#\POO\Circuferencia\obj\Debug\netcoreapp3.1\Circuferencia.csproj.CoreCompileInputs.cache
+C:\Users\vitto\Documents\C#\POO\Circuferencia\bin\Debug\netcoreapp3.1\Circuferencia.exe
+C:\Users\vitto\Documents\C#\POO\Circuferencia\bin\Debug\netcoreapp3.1\Circuferencia.deps.json
+C:\Users\vitto\Documents\C#\POO\Circuferencia\bin\Debug\netcoreapp3.1\Circuferencia.runtimeconfig.json
+C:\Users\vitto\Documents\C#\POO\Circuferencia\bin\Debug\netcoreapp3.1\Circuferencia.runtimeconfig.dev.json
+C:\Users\vitto\Documents\C#\POO\Circuferencia\bin\Debug\netcoreapp3.1\Circuferencia.dll
+C:\Users\vitto\Documents\C#\POO\Circuferencia\bin\Debug\netcoreapp3.1\Circuferencia.pdb
+C:\Users\vitto\Documents\C#\POO\Circuferencia\obj\Debug\netcoreapp3.1\Circuferencia.dll
+C:\Users\vitto\Documents\C#\POO\Circuferencia\obj\Debug\netcoreapp3.1\Circuferencia.pdb
+C:\Users\vitto\Documents\C#\POO\Circuferencia\obj\Debug\netcoreapp3.1\Circuferencia.genruntimeconfig.cache

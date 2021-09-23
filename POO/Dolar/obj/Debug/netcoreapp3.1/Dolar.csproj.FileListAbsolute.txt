@@ -1,0 +1,13 @@
+C:\Users\vitto\Documents\C#\POO\Dolar\obj\Debug\netcoreapp3.1\Dolar.csprojAssemblyReference.cache
+C:\Users\vitto\Documents\C#\POO\Dolar\obj\Debug\netcoreapp3.1\Dolar.AssemblyInfoInputs.cache
+C:\Users\vitto\Documents\C#\POO\Dolar\obj\Debug\netcoreapp3.1\Dolar.AssemblyInfo.cs
+C:\Users\vitto\Documents\C#\POO\Dolar\obj\Debug\netcoreapp3.1\Dolar.csproj.CoreCompileInputs.cache
+C:\Users\vitto\Documents\C#\POO\Dolar\bin\Debug\netcoreapp3.1\Dolar.exe
+C:\Users\vitto\Documents\C#\POO\Dolar\bin\Debug\netcoreapp3.1\Dolar.deps.json
+C:\Users\vitto\Documents\C#\POO\Dolar\bin\Debug\netcoreapp3.1\Dolar.runtimeconfig.json
+C:\Users\vitto\Documents\C#\POO\Dolar\bin\Debug\netcoreapp3.1\Dolar.runtimeconfig.dev.json
+C:\Users\vitto\Documents\C#\POO\Dolar\bin\Debug\netcoreapp3.1\Dolar.dll
+C:\Users\vitto\Documents\C#\POO\Dolar\bin\Debug\netcoreapp3.1\Dolar.pdb
+C:\Users\vitto\Documents\C#\POO\Dolar\obj\Debug\netcoreapp3.1\Dolar.dll
+C:\Users\vitto\Documents\C#\POO\Dolar\obj\Debug\netcoreapp3.1\Dolar.pdb
+C:\Users\vitto\Documents\C#\POO\Dolar\obj\Debug\netcoreapp3.1\Dolar.genruntimeconfig.cache

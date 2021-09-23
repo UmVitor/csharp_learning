@@ -1,0 +1,13 @@
+C:\Users\vitto\Documents\C#\POO\Republica\obj\Debug\netcoreapp3.1\Republica.csprojAssemblyReference.cache
+C:\Users\vitto\Documents\C#\POO\Republica\obj\Debug\netcoreapp3.1\Republica.AssemblyInfoInputs.cache
+C:\Users\vitto\Documents\C#\POO\Republica\obj\Debug\netcoreapp3.1\Republica.AssemblyInfo.cs
+C:\Users\vitto\Documents\C#\POO\Republica\obj\Debug\netcoreapp3.1\Republica.csproj.CoreCompileInputs.cache
+C:\Users\vitto\Documents\C#\POO\Republica\bin\Debug\netcoreapp3.1\Republica.exe
+C:\Users\vitto\Documents\C#\POO\Republica\bin\Debug\netcoreapp3.1\Republica.deps.json
+C:\Users\vitto\Documents\C#\POO\Republica\bin\Debug\netcoreapp3.1\Republica.runtimeconfig.json
+C:\Users\vitto\Documents\C#\POO\Republica\bin\Debug\netcoreapp3.1\Republica.runtimeconfig.dev.json
+C:\Users\vitto\Documents\C#\POO\Republica\bin\Debug\netcoreapp3.1\Republica.dll
+C:\Users\vitto\Documents\C#\POO\Republica\bin\Debug\netcoreapp3.1\Republica.pdb
+C:\Users\vitto\Documents\C#\POO\Republica\obj\Debug\netcoreapp3.1\Republica.dll
+C:\Users\vitto\Documents\C#\POO\Republica\obj\Debug\netcoreapp3.1\Republica.pdb
+C:\Users\vitto\Documents\C#\POO\Republica\obj\Debug\netcoreapp3.1\Republica.genruntimeconfig.cache

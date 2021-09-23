@@ -1,0 +1,13 @@
+C:\Users\vitto\Documents\C#\POO\Trig_retangulo\bin\Debug\netcoreapp3.1\Trig_retangulo.exe
+C:\Users\vitto\Documents\C#\POO\Trig_retangulo\bin\Debug\netcoreapp3.1\Trig_retangulo.deps.json
+C:\Users\vitto\Documents\C#\POO\Trig_retangulo\bin\Debug\netcoreapp3.1\Trig_retangulo.runtimeconfig.json
+C:\Users\vitto\Documents\C#\POO\Trig_retangulo\bin\Debug\netcoreapp3.1\Trig_retangulo.runtimeconfig.dev.json
+C:\Users\vitto\Documents\C#\POO\Trig_retangulo\bin\Debug\netcoreapp3.1\Trig_retangulo.dll
+C:\Users\vitto\Documents\C#\POO\Trig_retangulo\bin\Debug\netcoreapp3.1\Trig_retangulo.pdb
+C:\Users\vitto\Documents\C#\POO\Trig_retangulo\obj\Debug\netcoreapp3.1\Trig_retangulo.csprojAssemblyReference.cache
+C:\Users\vitto\Documents\C#\POO\Trig_retangulo\obj\Debug\netcoreapp3.1\Trig_retangulo.AssemblyInfoInputs.cache
+C:\Users\vitto\Documents\C#\POO\Trig_retangulo\obj\Debug\netcoreapp3.1\Trig_retangulo.AssemblyInfo.cs
+C:\Users\vitto\Documents\C#\POO\Trig_retangulo\obj\Debug\netcoreapp3.1\Trig_retangulo.csproj.CoreCompileInputs.cache
+C:\Users\vitto\Documents\C#\POO\Trig_retangulo\obj\Debug\netcoreapp3.1\Trig_retangulo.dll
+C:\Users\vitto\Documents\C#\POO\Trig_retangulo\obj\Debug\netcoreapp3.1\Trig_retangulo.pdb
+C:\Users\vitto\Documents\C#\POO\Trig_retangulo\obj\Debug\netcoreapp3.1\Trig_retangulo.genruntimeconfig.cache

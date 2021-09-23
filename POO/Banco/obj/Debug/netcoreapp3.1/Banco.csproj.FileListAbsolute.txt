@@ -1,0 +1,13 @@
+C:\Users\vitto\Documents\C#\POO\Banco\bin\Debug\netcoreapp3.1\Banco.exe
+C:\Users\vitto\Documents\C#\POO\Banco\bin\Debug\netcoreapp3.1\Banco.deps.json
+C:\Users\vitto\Documents\C#\POO\Banco\bin\Debug\netcoreapp3.1\Banco.runtimeconfig.json
+C:\Users\vitto\Documents\C#\POO\Banco\bin\Debug\netcoreapp3.1\Banco.runtimeconfig.dev.json
+C:\Users\vitto\Documents\C#\POO\Banco\bin\Debug\netcoreapp3.1\Banco.dll
+C:\Users\vitto\Documents\C#\POO\Banco\bin\Debug\netcoreapp3.1\Banco.pdb
+C:\Users\vitto\Documents\C#\POO\Banco\obj\Debug\netcoreapp3.1\Banco.csprojAssemblyReference.cache
+C:\Users\vitto\Documents\C#\POO\Banco\obj\Debug\netcoreapp3.1\Banco.AssemblyInfoInputs.cache
+C:\Users\vitto\Documents\C#\POO\Banco\obj\Debug\netcoreapp3.1\Banco.AssemblyInfo.cs
+C:\Users\vitto\Documents\C#\POO\Banco\obj\Debug\netcoreapp3.1\Banco.csproj.CoreCompileInputs.cache
+C:\Users\vitto\Documents\C#\POO\Banco\obj\Debug\netcoreapp3.1\Banco.dll
+C:\Users\vitto\Documents\C#\POO\Banco\obj\Debug\netcoreapp3.1\Banco.pdb
+C:\Users\vitto\Documents\C#\POO\Banco\obj\Debug\netcoreapp3.1\Banco.genruntimeconfig.cache
