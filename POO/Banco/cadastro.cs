@@ -9,7 +9,7 @@ namespace Banco
         public double _saldo {get; private set;}
         private double _taxa = 5.00;
 
-        // Construtor padrão
+        // Construtor padrão padroa
         public Cadastro(){
             _saldo = 0;
         }
