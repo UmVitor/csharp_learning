@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\vitto\\Documents\\C#\\POO\\Listas\\Listas.csproj": {}
+    "C:\\Users\\vitto\\documents\\C#\\POO\\Listas\\Listas.csproj": {}
   },
   "projects": {
-    "C:\\Users\\vitto\\Documents\\C#\\POO\\Listas\\Listas.csproj": {
+    "C:\\Users\\vitto\\documents\\C#\\POO\\Listas\\Listas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vitto\\Documents\\C#\\POO\\Listas\\Listas.csproj",
+        "projectUniqueName": "C:\\Users\\vitto\\documents\\C#\\POO\\Listas\\Listas.csproj",
         "projectName": "Listas",
-        "projectPath": "C:\\Users\\vitto\\Documents\\C#\\POO\\Listas\\Listas.csproj",
+        "projectPath": "C:\\Users\\vitto\\documents\\C#\\POO\\Listas\\Listas.csproj",
         "packagesPath": "C:\\Users\\vitto\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vitto\\Documents\\C#\\POO\\Listas\\obj\\",
+        "outputPath": "C:\\Users\\vitto\\documents\\C#\\POO\\Listas\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\vitto\\AppData\\Roaming\\NuGet\\NuGet.Config"

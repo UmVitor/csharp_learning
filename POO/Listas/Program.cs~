@@ -38,8 +38,8 @@ namespace Listas
             list.Remove("Maria"); // remove da lista o elemento "Maria"
             list.RemoveAll(x => x[0] == 'M'); // Remove todas as ocorrencias conforme o predicado(nesse caso irá remover todas as ocorrencias que comecem com a letra M)
             // caso método remove não encontre o elemento ele simplesmente não faz nada
-            list.RemoveAt(2); // remove o elemento que está na posição 2
-            list.RemoveRange(2,3); // remove um intervalo de elementos, nesse caso a partir da posição 2 remova 3 elementos da lista
+            list.RemoveAt(2) // remove o elemento que está na posição 2
+            list.RemoveRange(2,3) // remove um intervalo de elementos, nesse caso a partir da posição 2 remova 3 elementos da lista
         }
     }
 }
