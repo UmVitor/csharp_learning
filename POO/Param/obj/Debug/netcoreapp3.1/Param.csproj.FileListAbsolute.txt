@@ -1,0 +1,13 @@
+C:\Users\vitto\Documents\C#\POO\Param\bin\Debug\netcoreapp3.1\Param.exe
+C:\Users\vitto\Documents\C#\POO\Param\bin\Debug\netcoreapp3.1\Param.deps.json
+C:\Users\vitto\Documents\C#\POO\Param\bin\Debug\netcoreapp3.1\Param.runtimeconfig.json
+C:\Users\vitto\Documents\C#\POO\Param\bin\Debug\netcoreapp3.1\Param.runtimeconfig.dev.json
+C:\Users\vitto\Documents\C#\POO\Param\bin\Debug\netcoreapp3.1\Param.dll
+C:\Users\vitto\Documents\C#\POO\Param\bin\Debug\netcoreapp3.1\Param.pdb
+C:\Users\vitto\Documents\C#\POO\Param\obj\Debug\netcoreapp3.1\Param.csprojAssemblyReference.cache
+C:\Users\vitto\Documents\C#\POO\Param\obj\Debug\netcoreapp3.1\Param.AssemblyInfoInputs.cache
+C:\Users\vitto\Documents\C#\POO\Param\obj\Debug\netcoreapp3.1\Param.AssemblyInfo.cs
+C:\Users\vitto\Documents\C#\POO\Param\obj\Debug\netcoreapp3.1\Param.csproj.CoreCompileInputs.cache
+C:\Users\vitto\Documents\C#\POO\Param\obj\Debug\netcoreapp3.1\Param.dll
+C:\Users\vitto\Documents\C#\POO\Param\obj\Debug\netcoreapp3.1\Param.pdb
+C:\Users\vitto\Documents\C#\POO\Param\obj\Debug\netcoreapp3.1\Param.genruntimeconfig.cache
