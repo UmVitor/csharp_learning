@@ -1,0 +1,13 @@
+C:\Users\vitto\documents\C#\special_topics\bin\Debug\netcoreapp3.1\special_topics.exe
+C:\Users\vitto\documents\C#\special_topics\bin\Debug\netcoreapp3.1\special_topics.deps.json
+C:\Users\vitto\documents\C#\special_topics\bin\Debug\netcoreapp3.1\special_topics.runtimeconfig.json
+C:\Users\vitto\documents\C#\special_topics\bin\Debug\netcoreapp3.1\special_topics.runtimeconfig.dev.json
+C:\Users\vitto\documents\C#\special_topics\bin\Debug\netcoreapp3.1\special_topics.dll
+C:\Users\vitto\documents\C#\special_topics\bin\Debug\netcoreapp3.1\special_topics.pdb
+C:\Users\vitto\documents\C#\special_topics\obj\Debug\netcoreapp3.1\special_topics.csprojAssemblyReference.cache
+C:\Users\vitto\documents\C#\special_topics\obj\Debug\netcoreapp3.1\special_topics.AssemblyInfoInputs.cache
+C:\Users\vitto\documents\C#\special_topics\obj\Debug\netcoreapp3.1\special_topics.AssemblyInfo.cs
+C:\Users\vitto\documents\C#\special_topics\obj\Debug\netcoreapp3.1\special_topics.csproj.CoreCompileInputs.cache
+C:\Users\vitto\documents\C#\special_topics\obj\Debug\netcoreapp3.1\special_topics.dll
+C:\Users\vitto\documents\C#\special_topics\obj\Debug\netcoreapp3.1\special_topics.pdb
+C:\Users\vitto\documents\C#\special_topics\obj\Debug\netcoreapp3.1\special_topics.genruntimeconfig.cache
