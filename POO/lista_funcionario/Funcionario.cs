@@ -6,7 +6,11 @@ namespace lista_funcionario
         public string Nome {get; set;}
         public double Salario {get; set;}
 
-        public Funcionario(int id, string nome, double salario){
+
+        public Funcionario(string nome){
+            Nome = nome;
+        }
+        public Funcionario(int id, string nome, double salario): this(nome){
             Id = id;
             Nome = nome;
             Salario = salario;
