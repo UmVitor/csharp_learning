@@ -1,0 +1,13 @@
+C:\Users\vitto\Documents\C#\POO\Social_stringbuilder\obj\Debug\netcoreapp3.1\Social_stringbuilder.csprojAssemblyReference.cache
+C:\Users\vitto\Documents\C#\POO\Social_stringbuilder\obj\Debug\netcoreapp3.1\Social_stringbuilder.AssemblyInfoInputs.cache
+C:\Users\vitto\Documents\C#\POO\Social_stringbuilder\obj\Debug\netcoreapp3.1\Social_stringbuilder.AssemblyInfo.cs
+C:\Users\vitto\Documents\C#\POO\Social_stringbuilder\obj\Debug\netcoreapp3.1\Social_stringbuilder.csproj.CoreCompileInputs.cache
+C:\Users\vitto\Documents\C#\POO\Social_stringbuilder\bin\Debug\netcoreapp3.1\Social_stringbuilder.exe
+C:\Users\vitto\Documents\C#\POO\Social_stringbuilder\bin\Debug\netcoreapp3.1\Social_stringbuilder.deps.json
+C:\Users\vitto\Documents\C#\POO\Social_stringbuilder\bin\Debug\netcoreapp3.1\Social_stringbuilder.runtimeconfig.json
+C:\Users\vitto\Documents\C#\POO\Social_stringbuilder\bin\Debug\netcoreapp3.1\Social_stringbuilder.runtimeconfig.dev.json
+C:\Users\vitto\Documents\C#\POO\Social_stringbuilder\bin\Debug\netcoreapp3.1\Social_stringbuilder.dll
+C:\Users\vitto\Documents\C#\POO\Social_stringbuilder\bin\Debug\netcoreapp3.1\Social_stringbuilder.pdb
+C:\Users\vitto\Documents\C#\POO\Social_stringbuilder\obj\Debug\netcoreapp3.1\Social_stringbuilder.dll
+C:\Users\vitto\Documents\C#\POO\Social_stringbuilder\obj\Debug\netcoreapp3.1\Social_stringbuilder.pdb
+C:\Users\vitto\Documents\C#\POO\Social_stringbuilder\obj\Debug\netcoreapp3.1\Social_stringbuilder.genruntimeconfig.cache
