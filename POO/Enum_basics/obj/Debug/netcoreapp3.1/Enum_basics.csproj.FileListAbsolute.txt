@@ -1,0 +1,13 @@
+C:\Users\vitto\Documents\C#\POO\Enum_basics\obj\Debug\netcoreapp3.1\Enum_basics.csprojAssemblyReference.cache
+C:\Users\vitto\Documents\C#\POO\Enum_basics\obj\Debug\netcoreapp3.1\Enum_basics.AssemblyInfoInputs.cache
+C:\Users\vitto\Documents\C#\POO\Enum_basics\obj\Debug\netcoreapp3.1\Enum_basics.AssemblyInfo.cs
+C:\Users\vitto\Documents\C#\POO\Enum_basics\obj\Debug\netcoreapp3.1\Enum_basics.csproj.CoreCompileInputs.cache
+C:\Users\vitto\Documents\C#\POO\Enum_basics\bin\Debug\netcoreapp3.1\Enum_basics.exe
+C:\Users\vitto\Documents\C#\POO\Enum_basics\bin\Debug\netcoreapp3.1\Enum_basics.deps.json
+C:\Users\vitto\Documents\C#\POO\Enum_basics\bin\Debug\netcoreapp3.1\Enum_basics.runtimeconfig.json
+C:\Users\vitto\Documents\C#\POO\Enum_basics\bin\Debug\netcoreapp3.1\Enum_basics.runtimeconfig.dev.json
+C:\Users\vitto\Documents\C#\POO\Enum_basics\bin\Debug\netcoreapp3.1\Enum_basics.dll
+C:\Users\vitto\Documents\C#\POO\Enum_basics\bin\Debug\netcoreapp3.1\Enum_basics.pdb
+C:\Users\vitto\Documents\C#\POO\Enum_basics\obj\Debug\netcoreapp3.1\Enum_basics.dll
+C:\Users\vitto\Documents\C#\POO\Enum_basics\obj\Debug\netcoreapp3.1\Enum_basics.pdb
+C:\Users\vitto\Documents\C#\POO\Enum_basics\obj\Debug\netcoreapp3.1\Enum_basics.genruntimeconfig.cache
