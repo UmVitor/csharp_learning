@@ -8,7 +8,7 @@ namespace Composicao_Pedido.Entities
 
 
         public OrderItem(){
-
+            
         }
 
         public OrderItem(int quantity, double price, Product product){
@@ -18,7 +18,7 @@ namespace Composicao_Pedido.Entities
         }
 
         public double SubTotal(){
-            
+            return Price*Quantity;
         }
 
     }

@@ -10,7 +10,7 @@ namespace Composicao_Pedido.Entities
         }
 
         public Product(string name, double price){
-            Name = Name;
+            Name = name;
             Price = price;
         }
     }

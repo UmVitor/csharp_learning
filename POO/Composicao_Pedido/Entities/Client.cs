@@ -1,3 +1,4 @@
+using System;
 namespace Composicao_Pedido.Entities
 {
     public class Client
@@ -9,7 +10,7 @@ namespace Composicao_Pedido.Entities
         public Client(){
 
         }
-        public Client(string name, string Email, DateTime birthDate){
+        public Client(string name, string email, DateTime birthDate){
             Name = name;
             Email = email;
             BirthDate = birthDate;

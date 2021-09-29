@@ -1,0 +1,13 @@
+C:\Users\vitto\Documents\C#\POO\Composicao_Pedido\bin\Debug\netcoreapp3.1\Composicao_Pedido.exe
+C:\Users\vitto\Documents\C#\POO\Composicao_Pedido\bin\Debug\netcoreapp3.1\Composicao_Pedido.deps.json
+C:\Users\vitto\Documents\C#\POO\Composicao_Pedido\bin\Debug\netcoreapp3.1\Composicao_Pedido.runtimeconfig.json
+C:\Users\vitto\Documents\C#\POO\Composicao_Pedido\bin\Debug\netcoreapp3.1\Composicao_Pedido.runtimeconfig.dev.json
+C:\Users\vitto\Documents\C#\POO\Composicao_Pedido\bin\Debug\netcoreapp3.1\Composicao_Pedido.dll
+C:\Users\vitto\Documents\C#\POO\Composicao_Pedido\bin\Debug\netcoreapp3.1\Composicao_Pedido.pdb
+C:\Users\vitto\Documents\C#\POO\Composicao_Pedido\obj\Debug\netcoreapp3.1\Composicao_Pedido.csprojAssemblyReference.cache
+C:\Users\vitto\Documents\C#\POO\Composicao_Pedido\obj\Debug\netcoreapp3.1\Composicao_Pedido.AssemblyInfoInputs.cache
+C:\Users\vitto\Documents\C#\POO\Composicao_Pedido\obj\Debug\netcoreapp3.1\Composicao_Pedido.AssemblyInfo.cs
+C:\Users\vitto\Documents\C#\POO\Composicao_Pedido\obj\Debug\netcoreapp3.1\Composicao_Pedido.csproj.CoreCompileInputs.cache
+C:\Users\vitto\Documents\C#\POO\Composicao_Pedido\obj\Debug\netcoreapp3.1\Composicao_Pedido.dll
+C:\Users\vitto\Documents\C#\POO\Composicao_Pedido\obj\Debug\netcoreapp3.1\Composicao_Pedido.pdb
+C:\Users\vitto\Documents\C#\POO\Composicao_Pedido\obj\Debug\netcoreapp3.1\Composicao_Pedido.genruntimeconfig.cache
