@@ -13,13 +13,14 @@ namespace HerancaProduct.Entities
         }
         public ImportedProduct(string name, double price, double customsFee) : base(name,price)
         {
-            customsFee = CustomsFee;
+            CustomsFee = customsFee;
         }
         public override string PriceTag()
         {
             StringBuilder sb = new  StringBuilder();
+            sb.Append(Name + " $ " + TotalPrice().ToString("F2", CultureInfo.InvariantCulture));
             sb.Append(" (Custom fee: $" + CustomsFee.ToString("F2", CultureInfo.InvariantCulture)+")");
-            return base.PriceTag() + sb.ToString();
+            return  sb.ToString();
         }
         public double TotalPrice(){
             return Price + CustomsFee;

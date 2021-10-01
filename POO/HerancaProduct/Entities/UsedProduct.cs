@@ -18,7 +18,7 @@ namespace HerancaProduct.Entities
         public override string PriceTag()
         {
             StringBuilder sb = new StringBuilder();
-            sb.Append(" (USED - Manufacture date: ) " + ManufactureDate.ToString());
+            sb.Append(" (USED - Manufacture date:  " + ManufactureDate.ToString("dd/MM/yyyy") + ")");
             return base.PriceTag() + sb.ToString();
         }
     }

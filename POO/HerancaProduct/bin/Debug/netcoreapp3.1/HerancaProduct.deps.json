@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "HerancaProduct/1.0.0": {
+        "runtime": {
+          "HerancaProduct.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HerancaProduct/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

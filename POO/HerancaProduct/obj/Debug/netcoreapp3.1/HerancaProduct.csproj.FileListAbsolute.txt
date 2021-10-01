@@ -1,0 +1,13 @@
+C:\Users\vitto\Documents\C#\POO\HerancaProduct\bin\Debug\netcoreapp3.1\HerancaProduct.exe
+C:\Users\vitto\Documents\C#\POO\HerancaProduct\bin\Debug\netcoreapp3.1\HerancaProduct.deps.json
+C:\Users\vitto\Documents\C#\POO\HerancaProduct\bin\Debug\netcoreapp3.1\HerancaProduct.runtimeconfig.json
+C:\Users\vitto\Documents\C#\POO\HerancaProduct\bin\Debug\netcoreapp3.1\HerancaProduct.runtimeconfig.dev.json
+C:\Users\vitto\Documents\C#\POO\HerancaProduct\bin\Debug\netcoreapp3.1\HerancaProduct.dll
+C:\Users\vitto\Documents\C#\POO\HerancaProduct\bin\Debug\netcoreapp3.1\HerancaProduct.pdb
+C:\Users\vitto\Documents\C#\POO\HerancaProduct\obj\Debug\netcoreapp3.1\HerancaProduct.csprojAssemblyReference.cache
+C:\Users\vitto\Documents\C#\POO\HerancaProduct\obj\Debug\netcoreapp3.1\HerancaProduct.AssemblyInfoInputs.cache
+C:\Users\vitto\Documents\C#\POO\HerancaProduct\obj\Debug\netcoreapp3.1\HerancaProduct.AssemblyInfo.cs
+C:\Users\vitto\Documents\C#\POO\HerancaProduct\obj\Debug\netcoreapp3.1\HerancaProduct.csproj.CoreCompileInputs.cache
+C:\Users\vitto\Documents\C#\POO\HerancaProduct\obj\Debug\netcoreapp3.1\HerancaProduct.dll
+C:\Users\vitto\Documents\C#\POO\HerancaProduct\obj\Debug\netcoreapp3.1\HerancaProduct.pdb
+C:\Users\vitto\Documents\C#\POO\HerancaProduct\obj\Debug\netcoreapp3.1\HerancaProduct.genruntimeconfig.cache
