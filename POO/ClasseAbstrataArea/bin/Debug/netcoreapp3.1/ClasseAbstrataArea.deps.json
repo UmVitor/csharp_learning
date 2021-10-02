@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ClasseAbstrataArea/1.0.0": {
+        "runtime": {
+          "ClasseAbstrataArea.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ClasseAbstrataArea/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

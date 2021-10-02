@@ -1,0 +1,13 @@
+C:\Users\vitto\documents\C#\POO\ClasseAbstrata\obj\Debug\netcoreapp3.1\ClasseAbstrata.csprojAssemblyReference.cache
+C:\Users\vitto\documents\C#\POO\ClasseAbstrata\obj\Debug\netcoreapp3.1\ClasseAbstrata.AssemblyInfoInputs.cache
+C:\Users\vitto\documents\C#\POO\ClasseAbstrata\obj\Debug\netcoreapp3.1\ClasseAbstrata.AssemblyInfo.cs
+C:\Users\vitto\documents\C#\POO\ClasseAbstrata\obj\Debug\netcoreapp3.1\ClasseAbstrata.csproj.CoreCompileInputs.cache
+C:\Users\vitto\documents\C#\POO\ClasseAbstrata\bin\Debug\netcoreapp3.1\ClasseAbstrata.exe
+C:\Users\vitto\documents\C#\POO\ClasseAbstrata\bin\Debug\netcoreapp3.1\ClasseAbstrata.deps.json
+C:\Users\vitto\documents\C#\POO\ClasseAbstrata\bin\Debug\netcoreapp3.1\ClasseAbstrata.runtimeconfig.json
+C:\Users\vitto\documents\C#\POO\ClasseAbstrata\bin\Debug\netcoreapp3.1\ClasseAbstrata.runtimeconfig.dev.json
+C:\Users\vitto\documents\C#\POO\ClasseAbstrata\bin\Debug\netcoreapp3.1\ClasseAbstrata.dll
+C:\Users\vitto\documents\C#\POO\ClasseAbstrata\bin\Debug\netcoreapp3.1\ClasseAbstrata.pdb
+C:\Users\vitto\documents\C#\POO\ClasseAbstrata\obj\Debug\netcoreapp3.1\ClasseAbstrata.dll
+C:\Users\vitto\documents\C#\POO\ClasseAbstrata\obj\Debug\netcoreapp3.1\ClasseAbstrata.pdb
+C:\Users\vitto\documents\C#\POO\ClasseAbstrata\obj\Debug\netcoreapp3.1\ClasseAbstrata.genruntimeconfig.cache
