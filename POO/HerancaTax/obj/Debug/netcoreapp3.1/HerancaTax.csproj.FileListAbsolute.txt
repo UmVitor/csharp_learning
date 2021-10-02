@@ -1,0 +1,13 @@
+C:\Users\vitto\Documents\C#\POO\HerancaTax\bin\Debug\netcoreapp3.1\HerancaTax.exe
+C:\Users\vitto\Documents\C#\POO\HerancaTax\bin\Debug\netcoreapp3.1\HerancaTax.deps.json
+C:\Users\vitto\Documents\C#\POO\HerancaTax\bin\Debug\netcoreapp3.1\HerancaTax.runtimeconfig.json
+C:\Users\vitto\Documents\C#\POO\HerancaTax\bin\Debug\netcoreapp3.1\HerancaTax.runtimeconfig.dev.json
+C:\Users\vitto\Documents\C#\POO\HerancaTax\bin\Debug\netcoreapp3.1\HerancaTax.dll
+C:\Users\vitto\Documents\C#\POO\HerancaTax\bin\Debug\netcoreapp3.1\HerancaTax.pdb
+C:\Users\vitto\Documents\C#\POO\HerancaTax\obj\Debug\netcoreapp3.1\HerancaTax.csprojAssemblyReference.cache
+C:\Users\vitto\Documents\C#\POO\HerancaTax\obj\Debug\netcoreapp3.1\HerancaTax.AssemblyInfoInputs.cache
+C:\Users\vitto\Documents\C#\POO\HerancaTax\obj\Debug\netcoreapp3.1\HerancaTax.AssemblyInfo.cs
+C:\Users\vitto\Documents\C#\POO\HerancaTax\obj\Debug\netcoreapp3.1\HerancaTax.csproj.CoreCompileInputs.cache
+C:\Users\vitto\Documents\C#\POO\HerancaTax\obj\Debug\netcoreapp3.1\HerancaTax.dll
+C:\Users\vitto\Documents\C#\POO\HerancaTax\obj\Debug\netcoreapp3.1\HerancaTax.pdb
+C:\Users\vitto\Documents\C#\POO\HerancaTax\obj\Debug\netcoreapp3.1\HerancaTax.genruntimeconfig.cache
