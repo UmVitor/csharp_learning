@@ -1,0 +1,13 @@
+C:\Users\vitto\Documents\C#\special_topics\StartFiles\obj\Debug\netcoreapp3.1\StartFiles.csprojAssemblyReference.cache
+C:\Users\vitto\Documents\C#\special_topics\StartFiles\obj\Debug\netcoreapp3.1\StartFiles.AssemblyInfoInputs.cache
+C:\Users\vitto\Documents\C#\special_topics\StartFiles\obj\Debug\netcoreapp3.1\StartFiles.AssemblyInfo.cs
+C:\Users\vitto\Documents\C#\special_topics\StartFiles\obj\Debug\netcoreapp3.1\StartFiles.csproj.CoreCompileInputs.cache
+C:\Users\vitto\Documents\C#\special_topics\StartFiles\bin\Debug\netcoreapp3.1\StartFiles.exe
+C:\Users\vitto\Documents\C#\special_topics\StartFiles\bin\Debug\netcoreapp3.1\StartFiles.deps.json
+C:\Users\vitto\Documents\C#\special_topics\StartFiles\bin\Debug\netcoreapp3.1\StartFiles.runtimeconfig.json
+C:\Users\vitto\Documents\C#\special_topics\StartFiles\bin\Debug\netcoreapp3.1\StartFiles.runtimeconfig.dev.json
+C:\Users\vitto\Documents\C#\special_topics\StartFiles\bin\Debug\netcoreapp3.1\StartFiles.dll
+C:\Users\vitto\Documents\C#\special_topics\StartFiles\bin\Debug\netcoreapp3.1\StartFiles.pdb
+C:\Users\vitto\Documents\C#\special_topics\StartFiles\obj\Debug\netcoreapp3.1\StartFiles.dll
+C:\Users\vitto\Documents\C#\special_topics\StartFiles\obj\Debug\netcoreapp3.1\StartFiles.pdb
+C:\Users\vitto\Documents\C#\special_topics\StartFiles\obj\Debug\netcoreapp3.1\StartFiles.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\vitto\Documents\C#\special_topics\FileStreams\obj\Debug\netcoreapp3.1\FileStreams.csprojAssemblyReference.cache
+C:\Users\vitto\Documents\C#\special_topics\FileStreams\obj\Debug\netcoreapp3.1\FileStreams.AssemblyInfoInputs.cache
+C:\Users\vitto\Documents\C#\special_topics\FileStreams\obj\Debug\netcoreapp3.1\FileStreams.AssemblyInfo.cs
+C:\Users\vitto\Documents\C#\special_topics\FileStreams\obj\Debug\netcoreapp3.1\FileStreams.csproj.CoreCompileInputs.cache
+C:\Users\vitto\Documents\C#\special_topics\FileStreams\bin\Debug\netcoreapp3.1\FileStreams.exe
+C:\Users\vitto\Documents\C#\special_topics\FileStreams\bin\Debug\netcoreapp3.1\FileStreams.deps.json
+C:\Users\vitto\Documents\C#\special_topics\FileStreams\bin\Debug\netcoreapp3.1\FileStreams.runtimeconfig.json
+C:\Users\vitto\Documents\C#\special_topics\FileStreams\bin\Debug\netcoreapp3.1\FileStreams.runtimeconfig.dev.json
+C:\Users\vitto\Documents\C#\special_topics\FileStreams\bin\Debug\netcoreapp3.1\FileStreams.dll
+C:\Users\vitto\Documents\C#\special_topics\FileStreams\bin\Debug\netcoreapp3.1\FileStreams.pdb
+C:\Users\vitto\Documents\C#\special_topics\FileStreams\obj\Debug\netcoreapp3.1\FileStreams.dll
+C:\Users\vitto\Documents\C#\special_topics\FileStreams\obj\Debug\netcoreapp3.1\FileStreams.pdb
+C:\Users\vitto\Documents\C#\special_topics\FileStreams\obj\Debug\netcoreapp3.1\FileStreams.genruntimeconfig.cache
