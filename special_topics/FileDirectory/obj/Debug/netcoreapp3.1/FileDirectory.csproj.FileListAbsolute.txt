@@ -1,0 +1,13 @@
+C:\Users\vitto\Documents\C#\special_topics\FileDirectory\obj\Debug\netcoreapp3.1\FileDirectory.csprojAssemblyReference.cache
+C:\Users\vitto\Documents\C#\special_topics\FileDirectory\obj\Debug\netcoreapp3.1\FileDirectory.AssemblyInfoInputs.cache
+C:\Users\vitto\Documents\C#\special_topics\FileDirectory\obj\Debug\netcoreapp3.1\FileDirectory.AssemblyInfo.cs
+C:\Users\vitto\Documents\C#\special_topics\FileDirectory\obj\Debug\netcoreapp3.1\FileDirectory.csproj.CoreCompileInputs.cache
+C:\Users\vitto\Documents\C#\special_topics\FileDirectory\bin\Debug\netcoreapp3.1\FileDirectory.exe
+C:\Users\vitto\Documents\C#\special_topics\FileDirectory\bin\Debug\netcoreapp3.1\FileDirectory.deps.json
+C:\Users\vitto\Documents\C#\special_topics\FileDirectory\bin\Debug\netcoreapp3.1\FileDirectory.runtimeconfig.json
+C:\Users\vitto\Documents\C#\special_topics\FileDirectory\bin\Debug\netcoreapp3.1\FileDirectory.runtimeconfig.dev.json
+C:\Users\vitto\Documents\C#\special_topics\FileDirectory\bin\Debug\netcoreapp3.1\FileDirectory.dll
+C:\Users\vitto\Documents\C#\special_topics\FileDirectory\bin\Debug\netcoreapp3.1\FileDirectory.pdb
+C:\Users\vitto\Documents\C#\special_topics\FileDirectory\obj\Debug\netcoreapp3.1\FileDirectory.dll
+C:\Users\vitto\Documents\C#\special_topics\FileDirectory\obj\Debug\netcoreapp3.1\FileDirectory.pdb
+C:\Users\vitto\Documents\C#\special_topics\FileDirectory\obj\Debug\netcoreapp3.1\FileDirectory.genruntimeconfig.cache
