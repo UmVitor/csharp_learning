@@ -1,0 +1,13 @@
+C:\Users\vitto\Documents\C#\special_topics\ExceptionsBank\obj\Debug\netcoreapp3.1\ExceptionsBank.csprojAssemblyReference.cache
+C:\Users\vitto\Documents\C#\special_topics\ExceptionsBank\obj\Debug\netcoreapp3.1\ExceptionsBank.AssemblyInfoInputs.cache
+C:\Users\vitto\Documents\C#\special_topics\ExceptionsBank\obj\Debug\netcoreapp3.1\ExceptionsBank.AssemblyInfo.cs
+C:\Users\vitto\Documents\C#\special_topics\ExceptionsBank\obj\Debug\netcoreapp3.1\ExceptionsBank.csproj.CoreCompileInputs.cache
+C:\Users\vitto\Documents\C#\special_topics\ExceptionsBank\bin\Debug\netcoreapp3.1\ExceptionsBank.exe
+C:\Users\vitto\Documents\C#\special_topics\ExceptionsBank\bin\Debug\netcoreapp3.1\ExceptionsBank.deps.json
+C:\Users\vitto\Documents\C#\special_topics\ExceptionsBank\bin\Debug\netcoreapp3.1\ExceptionsBank.runtimeconfig.json
+C:\Users\vitto\Documents\C#\special_topics\ExceptionsBank\bin\Debug\netcoreapp3.1\ExceptionsBank.runtimeconfig.dev.json
+C:\Users\vitto\Documents\C#\special_topics\ExceptionsBank\bin\Debug\netcoreapp3.1\ExceptionsBank.dll
+C:\Users\vitto\Documents\C#\special_topics\ExceptionsBank\bin\Debug\netcoreapp3.1\ExceptionsBank.pdb
+C:\Users\vitto\Documents\C#\special_topics\ExceptionsBank\obj\Debug\netcoreapp3.1\ExceptionsBank.dll
+C:\Users\vitto\Documents\C#\special_topics\ExceptionsBank\obj\Debug\netcoreapp3.1\ExceptionsBank.pdb
+C:\Users\vitto\Documents\C#\special_topics\ExceptionsBank\obj\Debug\netcoreapp3.1\ExceptionsBank.genruntimeconfig.cache
