@@ -1,0 +1,13 @@
+C:\Users\vitto\Documents\C#\special_topics\UsingBlockFile\bin\Debug\netcoreapp3.1\UsingBlockFile.exe
+C:\Users\vitto\Documents\C#\special_topics\UsingBlockFile\bin\Debug\netcoreapp3.1\UsingBlockFile.deps.json
+C:\Users\vitto\Documents\C#\special_topics\UsingBlockFile\bin\Debug\netcoreapp3.1\UsingBlockFile.runtimeconfig.json
+C:\Users\vitto\Documents\C#\special_topics\UsingBlockFile\bin\Debug\netcoreapp3.1\UsingBlockFile.runtimeconfig.dev.json
+C:\Users\vitto\Documents\C#\special_topics\UsingBlockFile\bin\Debug\netcoreapp3.1\UsingBlockFile.dll
+C:\Users\vitto\Documents\C#\special_topics\UsingBlockFile\bin\Debug\netcoreapp3.1\UsingBlockFile.pdb
+C:\Users\vitto\Documents\C#\special_topics\UsingBlockFile\obj\Debug\netcoreapp3.1\UsingBlockFile.csprojAssemblyReference.cache
+C:\Users\vitto\Documents\C#\special_topics\UsingBlockFile\obj\Debug\netcoreapp3.1\UsingBlockFile.AssemblyInfoInputs.cache
+C:\Users\vitto\Documents\C#\special_topics\UsingBlockFile\obj\Debug\netcoreapp3.1\UsingBlockFile.AssemblyInfo.cs
+C:\Users\vitto\Documents\C#\special_topics\UsingBlockFile\obj\Debug\netcoreapp3.1\UsingBlockFile.csproj.CoreCompileInputs.cache
+C:\Users\vitto\Documents\C#\special_topics\UsingBlockFile\obj\Debug\netcoreapp3.1\UsingBlockFile.dll
+C:\Users\vitto\Documents\C#\special_topics\UsingBlockFile\obj\Debug\netcoreapp3.1\UsingBlockFile.pdb
+C:\Users\vitto\Documents\C#\special_topics\UsingBlockFile\obj\Debug\netcoreapp3.1\UsingBlockFile.genruntimeconfig.cache
