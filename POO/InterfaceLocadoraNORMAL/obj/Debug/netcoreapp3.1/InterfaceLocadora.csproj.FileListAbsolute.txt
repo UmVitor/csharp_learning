@@ -1,13 +1,13 @@
-C:\Users\vitto\Documents\C#\POO\InterfaceLocadora\obj\Debug\netcoreapp3.1\InterfaceLocadora.csprojAssemblyReference.cache
-C:\Users\vitto\Documents\C#\POO\InterfaceLocadora\obj\Debug\netcoreapp3.1\InterfaceLocadora.AssemblyInfoInputs.cache
-C:\Users\vitto\Documents\C#\POO\InterfaceLocadora\obj\Debug\netcoreapp3.1\InterfaceLocadora.AssemblyInfo.cs
-C:\Users\vitto\Documents\C#\POO\InterfaceLocadora\obj\Debug\netcoreapp3.1\InterfaceLocadora.csproj.CoreCompileInputs.cache
 C:\Users\vitto\Documents\C#\POO\InterfaceLocadora\bin\Debug\netcoreapp3.1\InterfaceLocadora.exe
 C:\Users\vitto\Documents\C#\POO\InterfaceLocadora\bin\Debug\netcoreapp3.1\InterfaceLocadora.deps.json
 C:\Users\vitto\Documents\C#\POO\InterfaceLocadora\bin\Debug\netcoreapp3.1\InterfaceLocadora.runtimeconfig.json
 C:\Users\vitto\Documents\C#\POO\InterfaceLocadora\bin\Debug\netcoreapp3.1\InterfaceLocadora.runtimeconfig.dev.json
 C:\Users\vitto\Documents\C#\POO\InterfaceLocadora\bin\Debug\netcoreapp3.1\InterfaceLocadora.dll
 C:\Users\vitto\Documents\C#\POO\InterfaceLocadora\bin\Debug\netcoreapp3.1\InterfaceLocadora.pdb
+C:\Users\vitto\Documents\C#\POO\InterfaceLocadora\obj\Debug\netcoreapp3.1\InterfaceLocadora.csprojAssemblyReference.cache
+C:\Users\vitto\Documents\C#\POO\InterfaceLocadora\obj\Debug\netcoreapp3.1\InterfaceLocadora.AssemblyInfoInputs.cache
+C:\Users\vitto\Documents\C#\POO\InterfaceLocadora\obj\Debug\netcoreapp3.1\InterfaceLocadora.AssemblyInfo.cs
+C:\Users\vitto\Documents\C#\POO\InterfaceLocadora\obj\Debug\netcoreapp3.1\InterfaceLocadora.csproj.CoreCompileInputs.cache
 C:\Users\vitto\Documents\C#\POO\InterfaceLocadora\obj\Debug\netcoreapp3.1\InterfaceLocadora.dll
 C:\Users\vitto\Documents\C#\POO\InterfaceLocadora\obj\Debug\netcoreapp3.1\InterfaceLocadora.pdb
 C:\Users\vitto\Documents\C#\POO\InterfaceLocadora\obj\Debug\netcoreapp3.1\InterfaceLocadora.genruntimeconfig.cache
