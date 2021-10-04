@@ -1,0 +1,13 @@
+C:\Users\vitto\Documents\C#\special_topics\FileCsvReader\obj\Debug\netcoreapp3.1\FileCsvReader.csprojAssemblyReference.cache
+C:\Users\vitto\Documents\C#\special_topics\FileCsvReader\obj\Debug\netcoreapp3.1\FileCsvReader.AssemblyInfoInputs.cache
+C:\Users\vitto\Documents\C#\special_topics\FileCsvReader\obj\Debug\netcoreapp3.1\FileCsvReader.AssemblyInfo.cs
+C:\Users\vitto\Documents\C#\special_topics\FileCsvReader\obj\Debug\netcoreapp3.1\FileCsvReader.csproj.CoreCompileInputs.cache
+C:\Users\vitto\Documents\C#\special_topics\FileCsvReader\bin\Debug\netcoreapp3.1\FileCsvReader.exe
+C:\Users\vitto\Documents\C#\special_topics\FileCsvReader\bin\Debug\netcoreapp3.1\FileCsvReader.deps.json
+C:\Users\vitto\Documents\C#\special_topics\FileCsvReader\bin\Debug\netcoreapp3.1\FileCsvReader.runtimeconfig.json
+C:\Users\vitto\Documents\C#\special_topics\FileCsvReader\bin\Debug\netcoreapp3.1\FileCsvReader.runtimeconfig.dev.json
+C:\Users\vitto\Documents\C#\special_topics\FileCsvReader\bin\Debug\netcoreapp3.1\FileCsvReader.dll
+C:\Users\vitto\Documents\C#\special_topics\FileCsvReader\bin\Debug\netcoreapp3.1\FileCsvReader.pdb
+C:\Users\vitto\Documents\C#\special_topics\FileCsvReader\obj\Debug\netcoreapp3.1\FileCsvReader.dll
+C:\Users\vitto\Documents\C#\special_topics\FileCsvReader\obj\Debug\netcoreapp3.1\FileCsvReader.pdb
+C:\Users\vitto\Documents\C#\special_topics\FileCsvReader\obj\Debug\netcoreapp3.1\FileCsvReader.genruntimeconfig.cache
