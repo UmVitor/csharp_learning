@@ -23,7 +23,7 @@ namespace InterfaceLocadora
             double day = double.Parse(Console.ReadLine(),CultureInfo.InvariantCulture);
             CarRental carRental = new CarRental(start, finish, new Vehicle(model));
 
-            RentalServices rentalService = new RentalServices(hour, day);
+            RentalServices rentalService = new RentalServices(hour, day, new BrazilTaxServices());
 
             rentalService.ProcessInvoice(carRental);
 

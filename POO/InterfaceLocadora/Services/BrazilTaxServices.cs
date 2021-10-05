@@ -1,6 +1,6 @@
 namespace InterfaceLocadora.Services
 {
-    public class BrazilTaxServices
+    public class BrazilTaxServices : ITaxService
     {
         public double Tax(double amount){
             if(amount <= 100.0){

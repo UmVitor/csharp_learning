@@ -8,13 +8,13 @@ namespace InterfaceLocadora.Services
         public double PricePerHour { get; private set; }
         public double PricePerDay { get; private set; }
 
-        private BrazilTaxServices _brazilTaxServices = new BrazilTaxServices();
+        private ITaxService _taxService;
 
-        public RentalServices(double pricePerHour, double pricePerDay) 
+        public RentalServices(double pricePerHour, double pricePerDay, ITaxService taxservice) 
         {
             PricePerHour = pricePerHour;
             PricePerDay = pricePerDay;
-               
+            _taxService = taxservice;
         }
 
         public void ProcessInvoice(CarRental carRental){
@@ -25,7 +25,7 @@ namespace InterfaceLocadora.Services
             }else{
                 basicPayment = PricePerDay * Math.Ceiling(duration.TotalDays);                
             }
-            double tax = _brazilTaxServices.Tax(basicPayment);
+            double tax = _taxService.Tax(basicPayment);
 
             carRental.Invoice = new Invoice(basicPayment, tax);
         }
