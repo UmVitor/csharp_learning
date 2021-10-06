@@ -1,0 +1,13 @@
+C:\Users\vitto\Documents\C#\POO\InterfaceContrato\bin\Debug\netcoreapp3.1\InterfaceContrato.exe
+C:\Users\vitto\Documents\C#\POO\InterfaceContrato\bin\Debug\netcoreapp3.1\InterfaceContrato.deps.json
+C:\Users\vitto\Documents\C#\POO\InterfaceContrato\bin\Debug\netcoreapp3.1\InterfaceContrato.runtimeconfig.json
+C:\Users\vitto\Documents\C#\POO\InterfaceContrato\bin\Debug\netcoreapp3.1\InterfaceContrato.runtimeconfig.dev.json
+C:\Users\vitto\Documents\C#\POO\InterfaceContrato\bin\Debug\netcoreapp3.1\InterfaceContrato.dll
+C:\Users\vitto\Documents\C#\POO\InterfaceContrato\bin\Debug\netcoreapp3.1\InterfaceContrato.pdb
+C:\Users\vitto\Documents\C#\POO\InterfaceContrato\obj\Debug\netcoreapp3.1\InterfaceContrato.csprojAssemblyReference.cache
+C:\Users\vitto\Documents\C#\POO\InterfaceContrato\obj\Debug\netcoreapp3.1\InterfaceContrato.AssemblyInfoInputs.cache
+C:\Users\vitto\Documents\C#\POO\InterfaceContrato\obj\Debug\netcoreapp3.1\InterfaceContrato.AssemblyInfo.cs
+C:\Users\vitto\Documents\C#\POO\InterfaceContrato\obj\Debug\netcoreapp3.1\InterfaceContrato.csproj.CoreCompileInputs.cache
+C:\Users\vitto\Documents\C#\POO\InterfaceContrato\obj\Debug\netcoreapp3.1\InterfaceContrato.dll
+C:\Users\vitto\Documents\C#\POO\InterfaceContrato\obj\Debug\netcoreapp3.1\InterfaceContrato.pdb
+C:\Users\vitto\Documents\C#\POO\InterfaceContrato\obj\Debug\netcoreapp3.1\InterfaceContrato.genruntimeconfig.cache
