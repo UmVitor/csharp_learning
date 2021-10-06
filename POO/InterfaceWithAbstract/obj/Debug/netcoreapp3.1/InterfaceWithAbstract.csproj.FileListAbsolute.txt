@@ -1,0 +1,13 @@
+C:\Users\vitto\Documents\C#\POO\InterfaceWithAbstract\obj\Debug\netcoreapp3.1\InterfaceWithAbstract.csprojAssemblyReference.cache
+C:\Users\vitto\Documents\C#\POO\InterfaceWithAbstract\obj\Debug\netcoreapp3.1\InterfaceWithAbstract.AssemblyInfoInputs.cache
+C:\Users\vitto\Documents\C#\POO\InterfaceWithAbstract\obj\Debug\netcoreapp3.1\InterfaceWithAbstract.AssemblyInfo.cs
+C:\Users\vitto\Documents\C#\POO\InterfaceWithAbstract\obj\Debug\netcoreapp3.1\InterfaceWithAbstract.csproj.CoreCompileInputs.cache
+C:\Users\vitto\Documents\C#\POO\InterfaceWithAbstract\bin\Debug\netcoreapp3.1\InterfaceWithAbstract.exe
+C:\Users\vitto\Documents\C#\POO\InterfaceWithAbstract\bin\Debug\netcoreapp3.1\InterfaceWithAbstract.deps.json
+C:\Users\vitto\Documents\C#\POO\InterfaceWithAbstract\bin\Debug\netcoreapp3.1\InterfaceWithAbstract.runtimeconfig.json
+C:\Users\vitto\Documents\C#\POO\InterfaceWithAbstract\bin\Debug\netcoreapp3.1\InterfaceWithAbstract.runtimeconfig.dev.json
+C:\Users\vitto\Documents\C#\POO\InterfaceWithAbstract\bin\Debug\netcoreapp3.1\InterfaceWithAbstract.dll
+C:\Users\vitto\Documents\C#\POO\InterfaceWithAbstract\bin\Debug\netcoreapp3.1\InterfaceWithAbstract.pdb
+C:\Users\vitto\Documents\C#\POO\InterfaceWithAbstract\obj\Debug\netcoreapp3.1\InterfaceWithAbstract.dll
+C:\Users\vitto\Documents\C#\POO\InterfaceWithAbstract\obj\Debug\netcoreapp3.1\InterfaceWithAbstract.pdb
+C:\Users\vitto\Documents\C#\POO\InterfaceWithAbstract\obj\Debug\netcoreapp3.1\InterfaceWithAbstract.genruntimeconfig.cache
