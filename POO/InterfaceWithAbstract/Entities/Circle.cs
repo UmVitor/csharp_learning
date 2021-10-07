@@ -2,11 +2,11 @@ using System;
 using System.Globalization;
 namespace InterfaceWithAbstract.Entities
 {
-    public class Circle : Shape
+    public class Circle : AbstractShape
     {
         public double Radius {get; set;}
         
-        public override double Area() : AbstractShape{
+        public override double Area(){
             return Math.PI * Radius * Radius;
         }
 
