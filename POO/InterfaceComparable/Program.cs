@@ -1,6 +1,7 @@
 ﻿using System;
 using System.IO;
 using System.Collections.Generic;
+using InterfaceComparable.Entities;
 
 namespace InterfaceComparable
 {
@@ -9,18 +10,18 @@ namespace InterfaceComparable
         static void Main(string[] args)
         {
             
-            string path = @"C:\temp1\in.txt";
+            string path = @"C:\temp1\in.csv";
             
             try{
                 using(StreamReader sr = File.OpenText(path)){
                     //ler o arquivo e adciona nada string na lista list
-                    List<string> list = new List<string>();
+                    List<Employee> list = new List<Employee>();
                     while(!sr.EndOfStream){
-                        list.Add(sr.ReadLine());
+                        list.Add(new Employee(sr.ReadLine()));
                     }
                     list.Sort(); //ordena a lista
-                    foreach(string str in list){
-                        Console.WriteLine(str);
+                    foreach(Employee emp in list){
+                        Console.WriteLine(emp);
                     }
                 }
             }
