@@ -8,14 +8,15 @@ namespace GenericsEX1
     class Program
     {
         static void Main(string[] args)
-        {
-            PrintService printService = new PrintService();
+        {// instanciando o tipo genérico T na classe PrintService podemos declara no program qualquer tipo
+            PrintService<string> printService = new PrintService<string>();
+            PrintService<int> printService2 = new PrintService<int>();
             
             Console.Write("How many values: ");
             int n = int.Parse(Console.ReadLine());
 
             for(int i=0;i<n;i++){
-                int x = int.Parse(Console.ReadLine());
+                string x = Console.ReadLine();
                 printService.AddValue(x);
             }
             printService.Print();
