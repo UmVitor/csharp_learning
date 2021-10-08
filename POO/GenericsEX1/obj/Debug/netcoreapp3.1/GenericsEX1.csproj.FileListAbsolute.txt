@@ -1,0 +1,13 @@
+C:\Users\vitto\Documents\C#\POO\GenericsEX1\obj\Debug\netcoreapp3.1\GenericsEX1.csprojAssemblyReference.cache
+C:\Users\vitto\Documents\C#\POO\GenericsEX1\obj\Debug\netcoreapp3.1\GenericsEX1.AssemblyInfoInputs.cache
+C:\Users\vitto\Documents\C#\POO\GenericsEX1\obj\Debug\netcoreapp3.1\GenericsEX1.AssemblyInfo.cs
+C:\Users\vitto\Documents\C#\POO\GenericsEX1\obj\Debug\netcoreapp3.1\GenericsEX1.csproj.CoreCompileInputs.cache
+C:\Users\vitto\Documents\C#\POO\GenericsEX1\bin\Debug\netcoreapp3.1\GenericsEX1.exe
+C:\Users\vitto\Documents\C#\POO\GenericsEX1\bin\Debug\netcoreapp3.1\GenericsEX1.deps.json
+C:\Users\vitto\Documents\C#\POO\GenericsEX1\bin\Debug\netcoreapp3.1\GenericsEX1.runtimeconfig.json
+C:\Users\vitto\Documents\C#\POO\GenericsEX1\bin\Debug\netcoreapp3.1\GenericsEX1.runtimeconfig.dev.json
+C:\Users\vitto\Documents\C#\POO\GenericsEX1\bin\Debug\netcoreapp3.1\GenericsEX1.dll
+C:\Users\vitto\Documents\C#\POO\GenericsEX1\bin\Debug\netcoreapp3.1\GenericsEX1.pdb
+C:\Users\vitto\Documents\C#\POO\GenericsEX1\obj\Debug\netcoreapp3.1\GenericsEX1.dll
+C:\Users\vitto\Documents\C#\POO\GenericsEX1\obj\Debug\netcoreapp3.1\GenericsEX1.pdb
+C:\Users\vitto\Documents\C#\POO\GenericsEX1\obj\Debug\netcoreapp3.1\GenericsEX1.genruntimeconfig.cache
