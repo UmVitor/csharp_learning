@@ -1,5 +1,4 @@
 using System;
-using System.Collections.Generic;
 namespace HashSetAndHashSortEx4.Entities
 {
     public class Person

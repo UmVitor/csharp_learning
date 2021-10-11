@@ -1,0 +1,16 @@
+C:\Users\vitto\Documents\C#\POO\HashSetAndHashSortEx5\bin\Debug\net5.0\HashSetAndHashSortEx5.exe
+C:\Users\vitto\Documents\C#\POO\HashSetAndHashSortEx5\bin\Debug\net5.0\HashSetAndHashSortEx5.deps.json
+C:\Users\vitto\Documents\C#\POO\HashSetAndHashSortEx5\bin\Debug\net5.0\HashSetAndHashSortEx5.runtimeconfig.json
+C:\Users\vitto\Documents\C#\POO\HashSetAndHashSortEx5\bin\Debug\net5.0\HashSetAndHashSortEx5.runtimeconfig.dev.json
+C:\Users\vitto\Documents\C#\POO\HashSetAndHashSortEx5\bin\Debug\net5.0\HashSetAndHashSortEx5.dll
+C:\Users\vitto\Documents\C#\POO\HashSetAndHashSortEx5\bin\Debug\net5.0\ref\HashSetAndHashSortEx5.dll
+C:\Users\vitto\Documents\C#\POO\HashSetAndHashSortEx5\bin\Debug\net5.0\HashSetAndHashSortEx5.pdb
+C:\Users\vitto\Documents\C#\POO\HashSetAndHashSortEx5\obj\Debug\net5.0\HashSetAndHashSortEx5.csproj.AssemblyReference.cache
+C:\Users\vitto\Documents\C#\POO\HashSetAndHashSortEx5\obj\Debug\net5.0\HashSetAndHashSortEx5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitto\Documents\C#\POO\HashSetAndHashSortEx5\obj\Debug\net5.0\HashSetAndHashSortEx5.AssemblyInfoInputs.cache
+C:\Users\vitto\Documents\C#\POO\HashSetAndHashSortEx5\obj\Debug\net5.0\HashSetAndHashSortEx5.AssemblyInfo.cs
+C:\Users\vitto\Documents\C#\POO\HashSetAndHashSortEx5\obj\Debug\net5.0\HashSetAndHashSortEx5.csproj.CoreCompileInputs.cache
+C:\Users\vitto\Documents\C#\POO\HashSetAndHashSortEx5\obj\Debug\net5.0\HashSetAndHashSortEx5.dll
+C:\Users\vitto\Documents\C#\POO\HashSetAndHashSortEx5\obj\Debug\net5.0\ref\HashSetAndHashSortEx5.dll
+C:\Users\vitto\Documents\C#\POO\HashSetAndHashSortEx5\obj\Debug\net5.0\HashSetAndHashSortEx5.pdb
+C:\Users\vitto\Documents\C#\POO\HashSetAndHashSortEx5\obj\Debug\net5.0\HashSetAndHashSortEx5.genruntimeconfig.cache

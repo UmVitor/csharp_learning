@@ -27,21 +27,13 @@ namespace HashSetAndHashSortEx4
                         string[] line = sr.ReadLine().Split(" ");
                         people.Add(new Person(line[0],DateTime.Parse(line[1])));
                     }
-                    PrintCollection(people);
+                    Console.WriteLine("Total Users: " + people.Count);
                 }
             }
             catch (IOException e)
             {
                 Console.WriteLine(e.Message);
             }
-        }
-        static void PrintCollection<T>(IEnumerable<T> collection){
-            int count=0;
-            foreach (T obj in collection)
-            {
-                count++;
-            }
-            Console.WriteLine("Total Users: " + count);
         }
     }
 }
