@@ -12,19 +12,26 @@ namespace DictionaryEx2
             string path = @"C://temp1/in.txt";//Console.ReadLine();
             Dictionary<string, string> vote = new Dictionary<string, string>();
             try {
-                using(StreamReader sr = File.OpenText(path)) {
+                using (StreamReader sr = File.OpenText(path)) {
+
+                    Dictionary<string, int> dictionary = new Dictionary<string, int>();
+
                     while (!sr.EndOfStream) {
-                        string[] line = sr.ReadLine().Split(',');
-                        if(vote.ContainsKey(line[0])){
-                            vote[line[0]] = (int.Parse(vote[line[0]]) + int.Parse(line[1])).ToString();
-                        }else
-                        {
-                            vote[line[0]] = line[1];
+
+                        string[] votingRecord = sr.ReadLine().Split(',');
+                        string candidate = votingRecord[0];
+                        int votes = int.Parse(votingRecord[1]);
+
+                        if (dictionary.ContainsKey(candidate)) {
+                            dictionary[candidate] += votes;
+                        }
+                        else {
+                            dictionary[candidate] = votes;
                         }
                     }
-                    foreach (var item in vote)
-                    {
-                        System.Console.WriteLine(item.Key + ": " + item.Value);
+
+                    foreach (var item in dictionary) {
+                        Console.WriteLine(item.Key + ": " + item.Value);
                     }
                 }
             }
