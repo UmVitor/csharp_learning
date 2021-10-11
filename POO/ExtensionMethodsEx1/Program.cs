@@ -6,7 +6,8 @@ namespace ExtensionMethodsEx1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            string a  = "Hello World!";
+            System.Console.WriteLine(a.Cut(5));
         }
     }
 }

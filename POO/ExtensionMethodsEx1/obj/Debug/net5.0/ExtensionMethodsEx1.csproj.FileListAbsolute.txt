@@ -1,0 +1,16 @@
+C:\Users\vitto\Documents\C#\POO\ExtensionMethodsEx1\bin\Debug\net5.0\ExtensionMethodsEx1.exe
+C:\Users\vitto\Documents\C#\POO\ExtensionMethodsEx1\bin\Debug\net5.0\ExtensionMethodsEx1.deps.json
+C:\Users\vitto\Documents\C#\POO\ExtensionMethodsEx1\bin\Debug\net5.0\ExtensionMethodsEx1.runtimeconfig.json
+C:\Users\vitto\Documents\C#\POO\ExtensionMethodsEx1\bin\Debug\net5.0\ExtensionMethodsEx1.runtimeconfig.dev.json
+C:\Users\vitto\Documents\C#\POO\ExtensionMethodsEx1\bin\Debug\net5.0\ExtensionMethodsEx1.dll
+C:\Users\vitto\Documents\C#\POO\ExtensionMethodsEx1\bin\Debug\net5.0\ref\ExtensionMethodsEx1.dll
+C:\Users\vitto\Documents\C#\POO\ExtensionMethodsEx1\bin\Debug\net5.0\ExtensionMethodsEx1.pdb
+C:\Users\vitto\Documents\C#\POO\ExtensionMethodsEx1\obj\Debug\net5.0\ExtensionMethodsEx1.csproj.AssemblyReference.cache
+C:\Users\vitto\Documents\C#\POO\ExtensionMethodsEx1\obj\Debug\net5.0\ExtensionMethodsEx1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitto\Documents\C#\POO\ExtensionMethodsEx1\obj\Debug\net5.0\ExtensionMethodsEx1.AssemblyInfoInputs.cache
+C:\Users\vitto\Documents\C#\POO\ExtensionMethodsEx1\obj\Debug\net5.0\ExtensionMethodsEx1.AssemblyInfo.cs
+C:\Users\vitto\Documents\C#\POO\ExtensionMethodsEx1\obj\Debug\net5.0\ExtensionMethodsEx1.csproj.CoreCompileInputs.cache
+C:\Users\vitto\Documents\C#\POO\ExtensionMethodsEx1\obj\Debug\net5.0\ExtensionMethodsEx1.dll
+C:\Users\vitto\Documents\C#\POO\ExtensionMethodsEx1\obj\Debug\net5.0\ref\ExtensionMethodsEx1.dll
+C:\Users\vitto\Documents\C#\POO\ExtensionMethodsEx1\obj\Debug\net5.0\ExtensionMethodsEx1.pdb
+C:\Users\vitto\Documents\C#\POO\ExtensionMethodsEx1\obj\Debug\net5.0\ExtensionMethodsEx1.genruntimeconfig.cache
