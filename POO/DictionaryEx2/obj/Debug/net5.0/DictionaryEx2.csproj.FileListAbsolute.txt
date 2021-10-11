@@ -1,0 +1,16 @@
+C:\Users\vitto\Documents\C#\POO\DictionaryEx2\obj\Debug\net5.0\DictionaryEx2.csproj.AssemblyReference.cache
+C:\Users\vitto\Documents\C#\POO\DictionaryEx2\obj\Debug\net5.0\DictionaryEx2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitto\Documents\C#\POO\DictionaryEx2\obj\Debug\net5.0\DictionaryEx2.AssemblyInfoInputs.cache
+C:\Users\vitto\Documents\C#\POO\DictionaryEx2\obj\Debug\net5.0\DictionaryEx2.AssemblyInfo.cs
+C:\Users\vitto\Documents\C#\POO\DictionaryEx2\obj\Debug\net5.0\DictionaryEx2.csproj.CoreCompileInputs.cache
+C:\Users\vitto\Documents\C#\POO\DictionaryEx2\bin\Debug\net5.0\DictionaryEx2.exe
+C:\Users\vitto\Documents\C#\POO\DictionaryEx2\bin\Debug\net5.0\DictionaryEx2.deps.json
+C:\Users\vitto\Documents\C#\POO\DictionaryEx2\bin\Debug\net5.0\DictionaryEx2.runtimeconfig.json
+C:\Users\vitto\Documents\C#\POO\DictionaryEx2\bin\Debug\net5.0\DictionaryEx2.runtimeconfig.dev.json
+C:\Users\vitto\Documents\C#\POO\DictionaryEx2\bin\Debug\net5.0\DictionaryEx2.dll
+C:\Users\vitto\Documents\C#\POO\DictionaryEx2\bin\Debug\net5.0\ref\DictionaryEx2.dll
+C:\Users\vitto\Documents\C#\POO\DictionaryEx2\bin\Debug\net5.0\DictionaryEx2.pdb
+C:\Users\vitto\Documents\C#\POO\DictionaryEx2\obj\Debug\net5.0\DictionaryEx2.dll
+C:\Users\vitto\Documents\C#\POO\DictionaryEx2\obj\Debug\net5.0\ref\DictionaryEx2.dll
+C:\Users\vitto\Documents\C#\POO\DictionaryEx2\obj\Debug\net5.0\DictionaryEx2.pdb
+C:\Users\vitto\Documents\C#\POO\DictionaryEx2\obj\Debug\net5.0\DictionaryEx2.genruntimeconfig.cache
