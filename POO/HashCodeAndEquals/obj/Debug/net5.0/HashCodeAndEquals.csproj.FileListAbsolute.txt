@@ -1,0 +1,16 @@
+C:\Users\vitto\Documents\C#\POO\HashCodeAndEquals\obj\Debug\net5.0\HashCodeAndEquals.csproj.AssemblyReference.cache
+C:\Users\vitto\Documents\C#\POO\HashCodeAndEquals\obj\Debug\net5.0\HashCodeAndEquals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitto\Documents\C#\POO\HashCodeAndEquals\obj\Debug\net5.0\HashCodeAndEquals.AssemblyInfoInputs.cache
+C:\Users\vitto\Documents\C#\POO\HashCodeAndEquals\obj\Debug\net5.0\HashCodeAndEquals.AssemblyInfo.cs
+C:\Users\vitto\Documents\C#\POO\HashCodeAndEquals\obj\Debug\net5.0\HashCodeAndEquals.csproj.CoreCompileInputs.cache
+C:\Users\vitto\Documents\C#\POO\HashCodeAndEquals\bin\Debug\net5.0\HashCodeAndEquals.exe
+C:\Users\vitto\Documents\C#\POO\HashCodeAndEquals\bin\Debug\net5.0\HashCodeAndEquals.deps.json
+C:\Users\vitto\Documents\C#\POO\HashCodeAndEquals\bin\Debug\net5.0\HashCodeAndEquals.runtimeconfig.json
+C:\Users\vitto\Documents\C#\POO\HashCodeAndEquals\bin\Debug\net5.0\HashCodeAndEquals.runtimeconfig.dev.json
+C:\Users\vitto\Documents\C#\POO\HashCodeAndEquals\bin\Debug\net5.0\HashCodeAndEquals.dll
+C:\Users\vitto\Documents\C#\POO\HashCodeAndEquals\bin\Debug\net5.0\ref\HashCodeAndEquals.dll
+C:\Users\vitto\Documents\C#\POO\HashCodeAndEquals\bin\Debug\net5.0\HashCodeAndEquals.pdb
+C:\Users\vitto\Documents\C#\POO\HashCodeAndEquals\obj\Debug\net5.0\HashCodeAndEquals.dll
+C:\Users\vitto\Documents\C#\POO\HashCodeAndEquals\obj\Debug\net5.0\ref\HashCodeAndEquals.dll
+C:\Users\vitto\Documents\C#\POO\HashCodeAndEquals\obj\Debug\net5.0\HashCodeAndEquals.pdb
+C:\Users\vitto\Documents\C#\POO\HashCodeAndEquals\obj\Debug\net5.0\HashCodeAndEquals.genruntimeconfig.cache
