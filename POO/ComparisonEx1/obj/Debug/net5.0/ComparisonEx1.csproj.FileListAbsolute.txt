@@ -1,0 +1,16 @@
+C:\Users\vitto\Documents\C#\POO\ComparisonEx1\bin\Debug\net5.0\ComparisonEx1.exe
+C:\Users\vitto\Documents\C#\POO\ComparisonEx1\bin\Debug\net5.0\ComparisonEx1.deps.json
+C:\Users\vitto\Documents\C#\POO\ComparisonEx1\bin\Debug\net5.0\ComparisonEx1.runtimeconfig.json
+C:\Users\vitto\Documents\C#\POO\ComparisonEx1\bin\Debug\net5.0\ComparisonEx1.runtimeconfig.dev.json
+C:\Users\vitto\Documents\C#\POO\ComparisonEx1\bin\Debug\net5.0\ComparisonEx1.dll
+C:\Users\vitto\Documents\C#\POO\ComparisonEx1\bin\Debug\net5.0\ref\ComparisonEx1.dll
+C:\Users\vitto\Documents\C#\POO\ComparisonEx1\bin\Debug\net5.0\ComparisonEx1.pdb
+C:\Users\vitto\Documents\C#\POO\ComparisonEx1\obj\Debug\net5.0\ComparisonEx1.csproj.AssemblyReference.cache
+C:\Users\vitto\Documents\C#\POO\ComparisonEx1\obj\Debug\net5.0\ComparisonEx1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitto\Documents\C#\POO\ComparisonEx1\obj\Debug\net5.0\ComparisonEx1.AssemblyInfoInputs.cache
+C:\Users\vitto\Documents\C#\POO\ComparisonEx1\obj\Debug\net5.0\ComparisonEx1.AssemblyInfo.cs
+C:\Users\vitto\Documents\C#\POO\ComparisonEx1\obj\Debug\net5.0\ComparisonEx1.csproj.CoreCompileInputs.cache
+C:\Users\vitto\Documents\C#\POO\ComparisonEx1\obj\Debug\net5.0\ComparisonEx1.dll
+C:\Users\vitto\Documents\C#\POO\ComparisonEx1\obj\Debug\net5.0\ref\ComparisonEx1.dll
+C:\Users\vitto\Documents\C#\POO\ComparisonEx1\obj\Debug\net5.0\ComparisonEx1.pdb
+C:\Users\vitto\Documents\C#\POO\ComparisonEx1\obj\Debug\net5.0\ComparisonEx1.genruntimeconfig.cache
