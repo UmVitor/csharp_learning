@@ -14,12 +14,17 @@ namespace ComparisonEx1
             list.Add(new Product("Notebook", 1200.00));
             list.Add(new Product("Tablet", 450.00));
 
-            list.Sort();
+            Comparison<Product> comp = CompareProducts;
+
+            list.Sort(comp); //sor utilizando um delegate(referencia para a função com type safety)
 
             foreach (Product p in list)
             {
                 System.Console.WriteLine(p);
             }
+        }
+        static int CompareProducts(Product p1, Product p2){
+            return p1.Name.ToUpper().CompareTo(p2.Name);
         }
     }
 }
