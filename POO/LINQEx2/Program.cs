@@ -85,10 +85,25 @@ namespace LINQEx1
             var r14 = products.Where(p => p.Category.Id == 5).Select(p => p.Price).DefaultIfEmpty(0.0).Average();
             System.Console.WriteLine("Category 5 average prices: " + r14 + "\n");
 
-            //Soma dos precos desse resultado, por agregação
+            //Soma personalizada dos precos desse resultado, por agregação
             var r15 = products.Where(p => p.Category.Id == 1).Select(p => p.Price).Aggregate((x,y) => x+y);
             System.Console.WriteLine("Category 1 aggregate sum: " + r15 + "\n");
-            
+
+            //Soma personalizada por agregação com sobrecaga de um valor default, caso não haja elementos para a soma
+            var r16 = products.Where(p => p.Category.Id == 5).Select(p => p.Price).Aggregate(0.0,(x, y) => x + y);
+            System.Console.WriteLine("Category 1 aggregate sum: " + r16 + "\n");
+
+            //operação de agrupamento
+            var r17 = products.GroupBy(p => p.Category);
+            foreach (IGrouping<Category, Product> group in r17)
+            {
+                System.Console.WriteLine("Category " + group.Key.Name + ":");
+                foreach (Product p in group)
+                {
+                    System.Console.WriteLine(p);
+                }
+                System.Console.WriteLine();
+            }
 
 
         }
