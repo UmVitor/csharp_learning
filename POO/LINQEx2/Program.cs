@@ -29,23 +29,48 @@ namespace LINQEx1
 
             // Mostrar todos os produtos que possuem um TIER 1 e com um preço menor que $900
             var r1 = products.Where(p => p.Category.Tier == 1 && p.Price < 900.0);
+            //Sintaxe alternativa usando a linguagem SQL
+            var q1 =
+                from p in products
+                where p.Category.Tier == 1 && p.Price < 900
+                select p;
             Print("TIER 1 AND PRICE < 900:",r1);
 
             //Mostrar somente os nomes dos produtos da categoria Tools
             var r2 = products.Where(p => p.Category.Name =="Tools").Select(p => p.Name); // o select permite fazer projeções, ele pega um Produto e devolve um resultado do tipo que eu quiser;
+                                                                                         //Sintaxe alternativa usando a linguagem SQL
+            var q2 =
+               from p in products
+               where p.Category.Name == "Tools"
+               select p.Name;
             Print("NAMES OF PRODUCTS FROM TOOLS", r2);
 
             //produtos que comecam com a letra c
             var r3 = products.Where(p => p.Name[0] == 'C').Select(p => new {p.Name, p.Price, CategoryName = p.Category.Name}); // O select(estará utilizando um objeto anônimo, ou seja um objeto que não foi declarado nas ) vai retornar apenas o nome o preco e a categoria
-                                                                                                //Como tem dois campos com Name, vamos dar um apelido para o último campo e chama-lo de CategoryName
+                                                                                                                               //Como tem dois campos com Name, vamos dar um apelido para o último campo e chama-lo de CategoryName
+            var q3 = from p in products
+                    where p.Name[0] == 'C'
+                    select new
+                    {
+                        p.Name,
+                        p.Price,
+                        CategoryName = p.Category.Name
+                    };
             Print("NAMES STARTED WITH 'C' AND ANONYMOUS OBJECT", r3 );
 
             //produtos cujo tier da categoria seja 1, e ordenar por preco e os que tiverem preços iguais ordenar por nome
             var r4 = products.Where(p => p.Category.Tier == 1).OrderBy(p => p.Price).ThenBy(p => p.Name);
+            var q4 = from p in products
+                    where p.Category.Tier == 1
+                    orderby p.Name
+                    orderby p.Price
+                    select p;
+
             Print("TIER 1 ORDER BY PRICE THEN BY NAME", r4);
 
             //pega r4 criado anteriormente so que pula os dois primeiros objetos, e pega 4 objetos.
             var r5 = r4.Skip(2).Take(4);
+            var q5 = (from p in r4 select p).Skip(2).Take(4);
             Print("TIER 1 ORDER BY PRICE THEN BY NAME SKIP 2 AND TAKE 4",r5);
 
             //Pega o primeiro elemento
@@ -95,6 +120,7 @@ namespace LINQEx1
 
             //operação de agrupamento
             var r17 = products.GroupBy(p => p.Category);
+            var q17 = from p in products group p by p.Category;
             foreach (IGrouping<Category, Product> group in r17)
             {
                 System.Console.WriteLine("Category " + group.Key.Name + ":");
