@@ -1,0 +1,16 @@
+C:\Users\vitto\Documents\C#\POO\LINQEx4\bin\Debug\net5.0\LINQEx4.exe
+C:\Users\vitto\Documents\C#\POO\LINQEx4\bin\Debug\net5.0\LINQEx4.deps.json
+C:\Users\vitto\Documents\C#\POO\LINQEx4\bin\Debug\net5.0\LINQEx4.runtimeconfig.json
+C:\Users\vitto\Documents\C#\POO\LINQEx4\bin\Debug\net5.0\LINQEx4.runtimeconfig.dev.json
+C:\Users\vitto\Documents\C#\POO\LINQEx4\bin\Debug\net5.0\LINQEx4.dll
+C:\Users\vitto\Documents\C#\POO\LINQEx4\bin\Debug\net5.0\ref\LINQEx4.dll
+C:\Users\vitto\Documents\C#\POO\LINQEx4\bin\Debug\net5.0\LINQEx4.pdb
+C:\Users\vitto\Documents\C#\POO\LINQEx4\obj\Debug\net5.0\LINQEx4.csproj.AssemblyReference.cache
+C:\Users\vitto\Documents\C#\POO\LINQEx4\obj\Debug\net5.0\LINQEx4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitto\Documents\C#\POO\LINQEx4\obj\Debug\net5.0\LINQEx4.AssemblyInfoInputs.cache
+C:\Users\vitto\Documents\C#\POO\LINQEx4\obj\Debug\net5.0\LINQEx4.AssemblyInfo.cs
+C:\Users\vitto\Documents\C#\POO\LINQEx4\obj\Debug\net5.0\LINQEx4.csproj.CoreCompileInputs.cache
+C:\Users\vitto\Documents\C#\POO\LINQEx4\obj\Debug\net5.0\LINQEx4.dll
+C:\Users\vitto\Documents\C#\POO\LINQEx4\obj\Debug\net5.0\ref\LINQEx4.dll
+C:\Users\vitto\Documents\C#\POO\LINQEx4\obj\Debug\net5.0\LINQEx4.pdb
+C:\Users\vitto\Documents\C#\POO\LINQEx4\obj\Debug\net5.0\LINQEx4.genruntimeconfig.cache
